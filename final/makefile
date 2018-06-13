@@ -1,5 +1,5 @@
 default:
-	xelatex root.tex
-	xelatex root.tex
-	xelatex root.tex
-	xelatex root.tex
+	xelatex root
+	bibtex root
+	xelatex root
+	xelatex root
